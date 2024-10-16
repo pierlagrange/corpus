@@ -1,0 +1,46 @@
+- Station d'épuration (STEP) (sans méthanisation, sans compostage, sans incinération) - Capacité nominale >= 10000 eq/hab et <100000 est un RS
+- Station d'épuration (STEP) (sans méthanisation, sans compostage, sans incinération) - Capacité nominale >= 100000 eq/hab est un GR
+- Station d'épuration (STEP) avec méthanisation est un GR
+- Station d'épuration (STEP) avec compostage est un GR
+- Station d'épuration (STEP) avec incinération est un GR
+- Station de potabilisation des eaux est un RS, sauf si elle dessert + de 100 000 habitants ou produit 20 000m3/jour alors c'est un GR
+- Centre de traitement de déchets non dangereux ‐ Tri sans valorisation est un GR
+- Centre de traitement de déchets non dangereux ‐ quai de transfert est un RS, , sauf si la Superficie développée >= 500 m² (superficie des hangars) alors c'est un GR
+- Centre de traitement de déchets non dangereux‐ Enfouissement (ISDND) est un GR
+- Centre de traitement de déchets non dangereux ‐ Valorisation par compostage est un RS, sauf si la Superficie développée >= 500 m² (superficie des hangars) alors c'est un GR
+- Centre de traitement de déchets non dangereux ‐ Valorisation par incinération est un GR
+- Centre de traitement de déchets non dangereux ‐ Production de CSR (Combustible Solide de récupération) est un GR
+- Centre de traitement de déchets non dangereux ‐ Valorisation par méthanisation est un GR
+- Ressourceries,recycleries, objeteries et assimilés est un RS, sauf si Superficie développée >=6 000m2 alors c'est un GR
+- Chaufferies urbaines est un RS, sauf si elle comportent des installations de combusions alors c'est un GR
+- Centrales hydroélectriques est un RS, sauf di + de 500 kW alors c'est un GR
+- Centrales ‐ station de distribution d'hydrogène est un GR
+- Musée d'une superficie supérieure entre 5000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Opéra ou théâtre d'une superficie supérieure entre 5000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Château d'une superficie supérieure entre 5000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Autres établissements culturels et sportifs d'une superficie supérieure entre 5000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Etablissements d'enseignement et de recherche d'une superficie supérieure entre 5000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Etablissements d'enseignement professionnels d'une superficie supérieure entre 5000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Etablissements de cultes d'une superficie supérieure entre 3000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Hôpitaux, Etablissements hospitaliers et cliniques sont des risque sensible, sauf s'ils font plus de 10 000m2 alors c'est un grand risque
+- Ehpad entre 5000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Etablissement thermale est un risque sensible, sauf s'ils font plus de 10 000m2 alors c'est un grand risque
+- Blanchisserie est un risque sensible, sauf s'ils font plus de 10 000m2 alors c'est un grand risque
+- Abbatoir, MIN (Marché d'intérêt National) est un grand risque
+- Halle ou marché couvert entre 1000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Cuisine centrale entre 1000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Grands Ensemble immobiliers pour activité tertiaire entre 5000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- CTM (centre technique municipal), CTC (centre technique communautaire), CTD (Centres techniques municipaux) et centres d'exploitation routier entre 3000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Parkings (couverts, sous terrains ou aériens) de + de 6000 m2 sont un grand risque
+- Parking sous-terrain de 3000m2 sont un risque sensible
+- Laboratoires d'une superficie supérieure entre 3000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Archives d'une superficie supérieure entre 3000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Entrepôts de stockage d'une superficie supérieure entre 3000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Aérodromes d'une superficie supérieure entre 3000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Gares d'une superficie supérieure entre 3000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- Dépôts de bus est un grand risque.
+- Réserves musées, décors théâtres… d'une superficie supérieure entre 1000m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
+- ESAT d'une superficie supérieure entre 1000m2 et 3000m2 est un risque sensible, si plus de 3000m2 c'est un grand risque.
+- Zone d'Activités industrielles d'une superficie supérieure entre 1000m2 et 3000m2 est un risque sensible, si plus de 3000m2 c'est un grand risque.
+- Friche et Bâtiments vous à démolition sont un risque sensible si la superficie est de + de 500 m2
+- Les bâtiments vacants ou destinés à la réhabilitation d'une superficie supérieure entre 500m2 et 10000m2 est un risque sensible, si plus de 10000m2 c'est un grand risque.
